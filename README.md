@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **marciojosealves2@gmail.com**
 
-- 📄 Know about my experiences [https://www.freecodecamp.org/marciojosealves](https://www.freecodecamp.org/marciojosealves);[https://www.linkedin.com/in/marcio-jose-alves-monteiro-filho/](https://www.linkedin.com/in/marcio-jose-alves-monteiro-filho/)
+- 📄 Know about my experiences [https://www.freecodecamp.org/marciojosealves](https://www.freecodecamp.org/marciojosealves) ; [https://www.linkedin.com/in/marcio-jose-alves-monteiro-filho/](https://www.linkedin.com/in/marcio-jose-alves-monteiro-filho/)
 
 - ⚡ Fun fact **I like to run to think better**
 
